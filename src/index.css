@@ -70,7 +70,7 @@ h1 {
 #players li {
   display: flex;
   align-items: center;
-  width: 30%;
+  width: 50%;
   border: 2px solid transparent;
 }
 
@@ -109,7 +109,7 @@ h1 {
 
 .player-name {
   display: inline-block;
-  width: 6rem;
+  width: 10rem;
   font-size: 1rem;
   color: #e1dec7;
   text-transform: uppercase;
@@ -166,7 +166,7 @@ ol {
   gap: 2rem;
   margin: 3rem 0;
   padding: 0;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 #game-board ol {
