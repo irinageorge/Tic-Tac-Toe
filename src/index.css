@@ -57,6 +57,13 @@ h1 {
   position: relative;
 }
 
+@media (min-width: 656px) {
+  #game-container {
+    flex-direction: column; /* Assuming you want to set the direction property */
+    margin-top: 150px;   /* Set the margin-top property */
+  }
+}
+
 #players {
   list-style: none;
   padding: 0;
