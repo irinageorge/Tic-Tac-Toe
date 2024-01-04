@@ -58,7 +58,7 @@ const INITIAL_GAME_BOARD = [
 
 function App() {
   const [gameTurns, setGameTurns] = useState([]);
-  const [players, setPlayers] = useState({ PLAYERS });
+  const [players, setPlayers] = useState(PLAYERS);
 
   const activePlayer = deriveActivePlayer(gameTurns);
   const gameBoard = deriveGameBoard(gameTurns);
