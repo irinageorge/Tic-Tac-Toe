@@ -1,4 +1,3 @@
-```markdown
 # 🎮 Tic-Tac-Toe
 
 A simple and interactive **Tic-Tac-Toe game** built with **JavaScript, HTML, CSS, and Vite**.  
@@ -47,27 +46,6 @@ Follow these steps to run the project locally:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a new branch for your feature or fix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a Pull Request
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.  
@@ -79,4 +57,3 @@ You are free to use, modify, and distribute it with attribution.
 
 Developed by **Irina Georgieva**  
 GitHub: [@irinageorge](https://github.com/irinageorge)
-```
