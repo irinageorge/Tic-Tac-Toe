@@ -35,6 +35,7 @@ Follow these steps to run the project locally:
    ```bash
    npm run dev
    ```
+
 ---
 
 ## 🚀 Usage
@@ -46,20 +47,24 @@ Follow these steps to run the project locally:
 
 ---
 
-## 📂 Project Structure
+## 🤝 Contributing
 
-```
-Tic-Tac-Toe/
-├── public/              # Static assets
-├── src/                 # Source code
-│   ├── main.js          # Entry point
-│   ├── App.js           # Game logic
-│   └── styles.css       # Styling
-├── index.html           # Main HTML file
-├── package.json         # Dependencies & scripts
-├── vite.config.js       # Vite configuration
-└── README.md            # Project documentation
-```
+Contributions are welcome! To contribute:
+
+1. Fork the repository
+2. Create a new branch for your feature or fix:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add new feature"
+   ```
+4. Push to your branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a Pull Request
 
 ---
 
@@ -72,6 +77,6 @@ You are free to use, modify, and distribute it with attribution.
 
 ## 👩‍💻 Author
 
-Developed by **Irina George**  
+Developed by **Irina Georgieva**  
 GitHub: [@irinageorge](https://github.com/irinageorge)
 ```
